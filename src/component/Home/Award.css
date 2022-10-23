@@ -1,0 +1,61 @@
+.award{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.award >h1{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 51px;
+text-transform: uppercase;
+
+color: #892CDC;
+
+}
+.awards{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+   
+    margin-left: 30px;
+     margin-right: 30px; 
+     margin-top: 10px; 
+     padding-bottom: 100px;
+
+}
+
+.card{
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card > img{
+    width: 215px;
+height: 135.77px;
+margin-bottom: 20px;
+}
+
+.card >h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    
+    color: #892CDC;
+}
+.card > p{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 173.5%;
+    color: #000000;
+}

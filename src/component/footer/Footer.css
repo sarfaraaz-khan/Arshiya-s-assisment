@@ -1,0 +1,91 @@
+
+.textContainer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.listContainer{
+    margin-left: 50px;
+}
+.about, .help{
+    margin:20px;
+}
+.about > h5, .help > h5{
+    display:flex;
+  margin-left: 15px;
+    align-items: center;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+
+
+color: #892CDC;
+}
+
+.footlist >li{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 170%;
+color: #892CDC;
+list-style:none;
+display: flex;
+
+
+}
+
+.listContainer{
+    display: flex;
+}
+.soclogo{
+    padding: 20px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    font-family: 'Montserrat';
+
+}
+.social >h5{
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+color: #892CDC;
+}
+.soclogo > img{
+    width: 24px;
+    height: 24px;
+    margin: 5px;
+}
+.bottomContainer{
+    border-top: 1px solid gray;
+    display:flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-top:8px
+    ;
+    
+}
+.payment >img{
+    width: 33px;
+    height: 23px;
+}
+.copyright > span{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+    /* identical to box height, or 24px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #892CDC;
+}

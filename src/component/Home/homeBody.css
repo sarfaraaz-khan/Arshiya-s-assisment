@@ -1,0 +1,34 @@
+.homeBodyContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.homebody{
+    display: flex;
+ 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.lefttextContainer{
+    background-color: #E7D4FF;
+    width: 50%;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+
+}
+.rightImageContainer{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.rightImageContainer > img{
+    width: 177.82px;
+height: 310.75px;
+
+}

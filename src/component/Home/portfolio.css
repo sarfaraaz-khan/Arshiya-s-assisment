@@ -1,0 +1,26 @@
+.portfolioContainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    
+}
+.cardContainer{
+    width: 100%;
+}
+.title{
+margin-bottom: 40px;
+}
+span{
+    color: black;
+    margin-right:10px;
+}
+h1{
+    color: blue;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 51px;
+}

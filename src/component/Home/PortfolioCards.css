@@ -1,0 +1,57 @@
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.testimonial-avatar-container  {
+ background: none;
+ padding: 0px;
+}
+.MuiGrid-root{
+    background: #ffff !important;   
+}
+ .jss1:hover{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.jss3, .testimonial-avatar{
+    background: none;
+border-top: 10px solid  #892CDC;
+border-left: 5px solid  #892CDC;
+border-right: 5px solid  #892CDC;
+
+;
+}
+.testimonial-body {
+    background-color: #ffff !important;
+}
+.testimonial-avatar-container{
+    width: 150px !important;
+    height: 129px !important;
+   
+}
+.jss4 > p{
+    display: none;
+}
+h3{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+color: #892CDC !important;
+
+}
+.MuiGrid-item > p{
+padding:10px;
+font-family: 'Mulish' !important;
+font-style: normal!important;
+font-weight: 400 !important;
+font-size: 16px !important;
+line-height: 173.5% !important;
+text-align: center;
+color: #000000 !important;
+}
